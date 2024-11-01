@@ -139,3 +139,7 @@ out
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+main_test.ts
+main.ts
+deno.lock
+deno.json

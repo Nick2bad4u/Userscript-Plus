@@ -1,5 +1,4 @@
 // ==UserScript==
-// @version      7.0.0
 // @name         Magic Userscript+ : Show Site All UserJS
 // @name:ar      Magic Userscript+: عرض جميع ملفات UserJS
 // @name:de      Magic Userscript+ : Website anzeigen Alle UserJS
@@ -24,6 +23,7 @@
 // @description:zh      为当前网页查找可用的用户脚本。
 // @description:zh-CN      为当前网页查找可用的用户脚本。
 // @description:zh-TW      为当前网页查找可用的用户脚本。
+// @version      7.0.0
 // @supportURL   https://github.com/magicoflolis/Userscript-Plus/issues
 // @namespace    https://github.com/magicoflolis/Userscript-Plus
 // @homepageURL  https://github.com/magicoflolis/Userscript-Plus
